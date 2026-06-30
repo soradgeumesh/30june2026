@@ -3,7 +3,7 @@ name: Continue On Error Demo
 on:
   push:
     branches:
-      -main
+      - main
 
 jobs:
   python-job:
